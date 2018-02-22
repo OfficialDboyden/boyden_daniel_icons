@@ -1,0 +1,17 @@
+<svg id="bowling_ball" data-name="bowling ball" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 533.91 533.91">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 9px;
+      }
+    </style>
+  </defs>
+  <title>bowling ball</title>
+  <circle id="outline" class="cls-1" cx="266.96" cy="266.96" r="262.46"/>
+  <circle id="hole1" cx="208.24" cy="239.2" r="26.18"/>
+  <circle id="hole2" cx="125.55" cy="282.87" r="26.18"/>
+  <circle id="hole3" cx="132.98" cy="195.53" r="26.18"/>
+</svg>

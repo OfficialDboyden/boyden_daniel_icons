@@ -1,0 +1,23 @@
+<svg id="baseball" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 492.97 492.97">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        stroke-width: 7px;
+      }
+    </style>
+  </defs>
+  <title>baseball</title>
+  <circle id="circle" class="cls-1" cx="246.48" cy="246.48" r="241.48"/>
+  <path id="left_notch" data-name="left notch" class="cls-2" d="M540.67,141.19c-2.14,142.58-49.73,252.79-261,246.4" transform="translate(-279.04 -135.71)"/>
+  <path id="right_notch" data-name="right notch" class="cls-2" d="M493.25,621.52c15.33-158.66,96.52-255.28,272.66-262.47" transform="translate(-279.04 -135.71)"/>
+</svg>

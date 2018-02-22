@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 362.8 353.68">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <title>hockey</title>
+  <g id="hockey_stick" data-name="hockey stick">
+    <path id="stick" class="cls-1" d="M531.19,217.72Q559,186.93,586.9,206.31l20.52,18.57c11.06,9.56,12.4,20.74,0,34.21l-95.77,172c-9.11,19.74-23.27,37.36-54.73,37.14l-131.73-3.66c-67.22-36-5.19-94.32.26-99.15,3.5-8.5,127.56-4.69,127.56-4.69Z" transform="translate(-291.64 -196.32)"/>
+    <line id="tape2" class="cls-1" x1="205.22" y1="84.2" x2="276.09" y2="134.05"/>
+    <line id="tape1" class="cls-1" x1="225.14" y1="50.7" x2="294.81" y2="96.04"/>
+  </g>
+  <g id="puck">
+    <path id="puck_edge" data-name="puck edge" class="cls-1" d="M516.16,490.62c48.52,11.47,93.57,10.7,135.78,0" transform="translate(-291.64 -196.32)"/>
+    <path id="puck_outline" data-name="puck outline" class="cls-1" d="M514,476.45c49.68-9.77,96.38-10.81,137.9,3.26V536.4c-43.18,16.21-88.62,13.32-135.3,0Z" transform="translate(-291.64 -196.32)"/>
+  </g>
+</svg>

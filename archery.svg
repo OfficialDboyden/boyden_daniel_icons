@@ -1,0 +1,28 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 551.98 559.41">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 15px;
+      }
+
+      .cls-2 {
+        stroke-width: 9px;
+      }
+
+      .cls-3 {
+        stroke-width: 7px;
+      }
+    </style>
+  </defs>
+  <title>archery</title>
+  <path class="cls-1" d="M213.6,286.74,585.72,671.46c21.76-20.42,39.34-41.58,48.35-63.07C703.35,309.1,580,185,266.16,234.18,238.11,240.75,223.73,260.8,213.6,286.74Z" transform="translate(-204.87 -122.58)"/>
+  <polyline class="cls-2" points="50.78 497.9 473.35 78.49 424.47 32.76 545.88 5.96 519.08 114.75 476.24 79.54"/>
+  <polyline class="cls-3" points="40.8 450.76 93.23 455.43 100.52 506.05"/>
+  <polyline class="cls-3" points="20.93 470.26 73.35 474.92 80.64 525.54"/>
+</svg>

@@ -1,0 +1,34 @@
+<svg id="basketball" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 653.23 653.23">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+
+      .cls-1 {
+        stroke: #ff6b00;
+      }
+
+      .cls-2 {
+        stroke: #000;
+      }
+    </style>
+  </defs>
+  <title>basketball</title>
+  <g id="basketball_orange" data-name="basketball orange">
+    <circle id="circle_org" data-name="circle org" class="cls-1" cx="326.61" cy="326.61" r="321.61"/>
+    <path id="line4_org" data-name="line4 org" class="cls-1" d="M672.76,41Q643.15,366.85,351.15,362.64" transform="translate(-346.16 -40.02)"/>
+    <path id="line3_org" data-name="line3 org" class="cls-1" d="M676.76,684.31q29.61-325.83,321.61-321.61" transform="translate(-346.16 -40.02)"/>
+    <line id="line2_org" data-name="line2 org" class="cls-1" x1="541.82" y1="87.65" x2="89.57" y2="543.93"/>
+    <line id="line1_org" data-name="line1 org" class="cls-1" x1="112.39" y1="88.65" x2="555.78" y2="544.93"/>
+  </g>
+  <g id="basketball_black" data-name="basketball black">
+    <circle id="circle_org-2" data-name="circle org" class="cls-2" cx="326.61" cy="326.61" r="321.61"/>
+    <path id="line4" class="cls-2" d="M672.76,41Q643.15,366.85,351.15,362.64" transform="translate(-346.16 -40.02)"/>
+    <path id="line3" class="cls-2" d="M676.76,684.31q29.61-325.83,321.61-321.61" transform="translate(-346.16 -40.02)"/>
+    <line id="line2" class="cls-2" x1="541.82" y1="87.65" x2="89.57" y2="543.93"/>
+    <line id="line1" class="cls-2" x1="112.39" y1="88.65" x2="555.78" y2="544.93"/>
+  </g>
+</svg>
